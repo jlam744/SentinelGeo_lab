@@ -31,6 +31,8 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
+![China logs](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/b33627aa-e3bc-4f79-9d0e-00673fe0fbe9)
+
 <p align="center">
 
 </p>
