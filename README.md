@@ -12,7 +12,7 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <br />
 
 <p align="center">
-<img src="https://imgur.com/p505inW" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://imgur.com/pc6Ftpu" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
