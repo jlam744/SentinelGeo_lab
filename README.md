@@ -36,6 +36,7 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
 ![24 hrs attack](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/12b52d37-f7fa-4a6b-93a9-22e37f65e8ed)
 
 <p align="center">
