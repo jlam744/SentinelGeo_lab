@@ -12,7 +12,8 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/xuixRB4.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+![RDP Heat Map](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/4c8779b8-a54e-4141-9cb7-dca89e0d222c)
+="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
