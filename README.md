@@ -20,16 +20,19 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 </p>
 <h2>Languages Used</h2>
 
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer
+![Powershell script](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/3faedbc4-c5d8-44d2-9c46-f3cf6e023a63)
+
 
 <h2>Utilities Used</h2>
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
+![Powershell to API ](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/4fa4ff8f-029a-4cb1-bb7a-6659632b3c70)
 
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://imgur.com/pc6Ftpu" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
