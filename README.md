@@ -11,7 +11,7 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <br />
 <br />
 
-<p align="center">
+<p align="center"
 ![RDP Heat Map](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/4c8779b8-a54e-4141-9cb7-dca89e0d222c)
 
 </p>
