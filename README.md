@@ -29,9 +29,11 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 ![Powershell to API ](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/4fa4ff8f-029a-4cb1-bb7a-6659632b3c70)
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from China coming in; Custom logs being output with geodata in addition to view from Log Analytics Workspace</h2>
 
 ![China logs](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/b33627aa-e3bc-4f79-9d0e-00673fe0fbe9)
+![Log Analytic Workspace obtained info from VM](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/a81c3897-ef38-478c-a25d-6611fc8852e6)
+
 
 <p align="center">
 
