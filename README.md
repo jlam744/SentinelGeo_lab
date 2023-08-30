@@ -14,6 +14,7 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <p align="center"
 
 ![Geo API](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/4ab2eb9a-9db6-44b0-b487-55217de0ea23)
+![RDP Heat Map](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/6b4c6dd8-3f5b-448a-828b-2948154cbbc8)
 
 
 </p>
