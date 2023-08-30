@@ -1,22 +1,18 @@
-<h1>Failed RDP to IP Geolocation Information</h1>
-
-
- ### [YouTube Demonstration (@16:20)](https://youtu.be/RoZeVbbZ0o0?t=980)
-
+<h1>Honey pot, RDP Failure to IP Geolocation Information</h1>
 
 <h2>Description</h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
+<b>Utilized Windows Powershell script which is responsible for pushing out Windows Event Log information (Security Event 4625) for failed RDP attacks and using a third party API to collect information on the attackers location.
 </b>
 <br />
 <br />
-The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
+Azure Sentinel (SIEM) is set up and connects to a live virtual machine acting as a honey pot.
+(RDP Brute Force) from all around the world is displayed. PowerShell script
+looks up the attackers Geolocation information and plots it on Azure Sentinel Map.
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="[https://i.imgur.com/3d3CEwZ.png](https://imgur.com/a/JUQuQKf)" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
