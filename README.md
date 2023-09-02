@@ -21,6 +21,7 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer
+
 <p align="center"
  
 ![Powershell script](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/3faedbc4-c5d8-44d2-9c46-f3cf6e023a63)
