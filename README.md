@@ -6,7 +6,7 @@
 <br />
 <br />
 Azure Sentinel (SIEM) is set up and connects to a live virtual machine acting as a honey pot.
-(RDP Brute Force) from all around the world is displayed. PowerShell script
+RDP (Brute Force) from all around the world is displayed. PowerShell script
 looks up the attackers Geolocation information and plots it on Azure Sentinel Map.
 <br />
 <br />
