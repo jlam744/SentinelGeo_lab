@@ -21,6 +21,8 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer
+<p align="center"
+ 
 ![Powershell script](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/3faedbc4-c5d8-44d2-9c46-f3cf6e023a63)
 
 
@@ -31,6 +33,8 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 
 <h2>Attacks from China coming in; Custom logs being output with geodata in addition to view from Log Analytics Workspace</h2>
 
+<p align="center"
+
 ![China logs](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/b33627aa-e3bc-4f79-9d0e-00673fe0fbe9)
 ![Log Analytic Workspace obtained info from VM](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/a81c3897-ef38-478c-a25d-6611fc8852e6)
 
@@ -40,6 +44,8 @@ looks up the attackers Geolocation information and plots it on Azure Sentinel Ma
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center"
 
 ![24 hrs attack](https://github.com/jlam744/SentinelGeo_lab/assets/95711303/12b52d37-f7fa-4a6b-93a9-22e37f65e8ed)
 
